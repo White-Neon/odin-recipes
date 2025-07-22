@@ -1,0 +1,49 @@
+/*Styling for Recipe pages*/
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    border: 2px solid;
+    border-radius: 50px;
+    padding: 5px;
+    background-color: blanchedalmond;
+    text-align: center;
+    font-size: 72px;
+}
+
+img {
+    margin: 0px auto;
+    display: block;
+    margin: auto;
+    width: 500px;
+    height: auto;
+}
+
+h3 {
+    font-size: 32px;
+    margin-bottom: 1px;
+}
+
+p {
+    margin-top: 5px;
+    font-size: 18px;
+}
+
+ol,ul {
+    font-size: 18px;
+    display: block;
+    border: 3px solid;
+    border-radius: 10px;
+    color: black;
+    padding: 30px;
+    background-color: blanchedalmond;
+}
+
+button {
+    display: block;
+    margin: auto;
+    padding: 8px;
+    border-radius: 8px;
+}
